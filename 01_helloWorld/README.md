@@ -12,7 +12,9 @@ Let's look at the spec file first:
 ```javascript
 const helloWorld = require('./helloWorld');
 
-describe('Hello World', function() {
+describe('Hello World', fuub documentation on cloning a repository.
+Before you start working on any execises, you should first ensure you have the following installed:
+NPM. You should have installed NPM already in our Installing Node.js lesson. Just in case you need to check, type npm --version in your terminal. If you get back Command 'npm' not found, but can be installed with:, do not follow the instructions in the terminal to install with apt-get as this causes permission issues. Instead, go back tnction() {
   test('says "Hello, World!"', function() {
     expect(helloWorld()).toEqual('Hello, World!');
   });
